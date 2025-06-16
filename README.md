@@ -1,2 +1,7 @@
-# Github
- this is all I have learend to date
+# DEVELOPER LOG
+
+### Dev Logs
+
+#### 17.06.25 
+
+- started logging programming progress, will record what was learned on each day so I can revisit and practice. 
